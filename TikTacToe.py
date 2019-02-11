@@ -59,6 +59,7 @@ def place(a, b):
 
 
 def run():
+    print('Welcome to my game')
     refresh()
     grid()
     key = 'X'
